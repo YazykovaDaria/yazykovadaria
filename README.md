@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Daria. I am a freelance frontend developer living Mogilev, Belarus.
+My name is Daria. I am a frontend developer living Mogilev, Belarus.
 
 ## 🛠  Technologies and tools
 
